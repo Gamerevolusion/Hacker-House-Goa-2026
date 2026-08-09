@@ -1,0 +1,10 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /shares/{shareId} {
+      // Public read for share pages, write only from Cloud Functions
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}
