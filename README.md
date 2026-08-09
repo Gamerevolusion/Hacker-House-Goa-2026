@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/HH_GOA-2026-FF6A4D?style=for-the-badge&labelColor=0B1710&font=monospace" alt="HH GOA 2026" />
+<img src="https://img.shields.io/badge/TIDETAG-HH_GOA_2026-FF6A4D?style=for-the-badge&labelColor=0B1710&font=monospace" alt="TideTag — HH GOA 2026" />
 
-# 🌴 HH Goa 2026 — Builder ID Card Generator
+# 🌊 TideTag
 
 **Your badge. Your identity. Your ticket to the sand.**
 
-Generate a personalized hacker-residency badge for [Hacker House Goa 2026](https://hhgoa.com).  
+A builder ID card generator for [Hacker House Goa 2026](https://hhgoa.com).  
 Upload → Details → Download → Share to X. Done in 30 seconds.
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0B1710)](https://react.dev)
@@ -46,7 +46,7 @@ Upload → Details → Download → Share to X. Done in 30 seconds.
 
 ## ✦ What is this?
 
-A mobile-first web app that generates **laminated-badge-style ID cards** for [HH Goa 2026](https://hhgoa.com) — the hacker residency on the beach. Built as part of **Task #1** from the HH Goa shortlisting challenges.
+**TideTag** is a mobile-first web app that generates **laminated-badge-style ID cards** for [HH Goa 2026](https://hhgoa.com) — the hacker residency on the beach. Built as part of **Task #1** from the HH Goa shortlisting challenges.
 
 No login. No signup. No fluff.  
 Upload a photo, enter your name, pick your stack — your badge prints itself.
@@ -261,7 +261,7 @@ Same name → same title → same builder number. Always.
 >
 > Design your own HH Goa 2026 themed photo frame generator. Use that same generator to bring your teammates into one combined frame. Post it on X with a quick how-to on generating your own #FrameInGoa post using your generator — and you're done.
 
-— [hhgoa.com/tasks](https://hhgoa.com)
+— [hhgoa.com](https://hhgoa.com)
 
 ---
 
@@ -285,6 +285,6 @@ No fluff. Ship things that matter.
 
 **GOA, INDIA · 28–31 OCT 2026**
 
-Made for [HH Goa 2026](https://hhgoa.com) · `#FrameInGoa`
+Built with 🌊 by **TideTag** · `#FrameInGoa`
 
 </div>
